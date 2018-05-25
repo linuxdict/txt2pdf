@@ -6,3 +6,5 @@ Usage:
 Import libs: itext and itext-asian to your project. 
 
 then you can compile Text2Pdf.java
+
+Thanks to https://github.com/itext/itextpdf for creating so good project!
